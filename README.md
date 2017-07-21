@@ -12,3 +12,14 @@ mean(data)
 The commands in the gray box above can be directly copied and pasted into an R terminal, or typed by hand.  Additionally, you may find links to datasets or websites underlined in blue.  For example, you can find more information on circular statistics at [this wikipedia page](https://en.wikipedia.org/wiki/Directional_statistics). If you have any additional questions about GitHub or this tutorial, please let me know during the exercise.  Have fun!
 
 ## Part 1
+In order to make some specialized commands available to us to analyze circular data, we are going to install a 'package'.  The package is called ['circular'](https://cran.r-project.org/web/packages/circular/index.html), and its manual is available [here](https://cran.r-project.org/web/packages/circular/circular.pdf).
+
+First, open your R terminal (or R studio), and enter the following commands:
+```R
+# Install R package
+install.packages('circular')
+
+# Load the package
+library(circular)
+```
+
