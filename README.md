@@ -1,2 +1,2 @@
 # Circular_Biology
-This repository includes tutorial material for Eleanor's class on Aug 1-2, 2017
+This page is a tutorial to learn about and practice the statistical analysis of circular (orientation) data in biology.  Circular statistics are often employed to analyze various types of biologic data that is described, for example, by angles (directions) or periodic processes (eg., circadian rhythyms or lunar cycles).  This tutorial is designed for use in R, which has already been introduced into this class.
