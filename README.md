@@ -22,4 +22,15 @@ install.packages('circular')
 # Load the package
 library(circular)
 ```
+Assuming you did not receive any error messages, you are now ready to begin analyzing circular data.
+As mentioned in the lecture, we have to treat data on the circle a bit differently than you may be used to.
+Let's start with some practice data. All numbers are angles, which range between 0 and 360 degrees.
+```R
+# Make some practice data
+data = c(5, 350, 330, 40, 20, 345, 359, 10, 15, 310)
+
+# Calculate the mean
+mean(data)
+```
+The mean (average) calculated above is the arithmetic mean.  Now, on a scrap piece of paper, draw a circle, put 0 degrees at the top, then draw a line for each of the 10 observations.  It should look something like this:
 
