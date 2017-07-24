@@ -89,11 +89,11 @@ dev.off()
 ## Part 3:  Statistical testing
 Now the fun begins!  In this last section, we want to perform two statistical tests.  These tests will be practice for our lab experiment tomorrow.
 - First, we want to know whether or not a set of points on the circle is different from random.  We will use a test called the 'Rayleigh test'
-- Second, we want to know if two groups are the same or different.  For example, we could compare if males and females want to move in the same direction or not.  For comparing two groups, we will use the 'Watson-Wheeler test'.  This test is conceptually similar to a T-test, in case you have performed one in the past.
+- Second, we want to know if two groups are the same or different.  For example, we could compare if males and females want to move in the same direction or not.  For comparing two groups, we will use the 'Watson test'.  This test is conceptually similar to a T-test, in case you have performed one in the past.
 
 For both tests, a p-value less than 0.05 suggests:
 - for the Rayleigh test, the individuals move in a preferred direction and not at random
-- for the Watson-Wheeler test, that the two groups have a different preferred direction.
+- for the Watson test, that the two groups have a different preferred direction.
 
 For our practice data, we will use an actual dataset from Ernst & Lohmann. 2017.  Here is the citation and link to his paper:
 [Ernst, D. A. and Lohmann, K. J. (2016). Effect of magnetic pulses on Caribbean spiny lobsters: implications for magnetoreception. Journal of Experimental Biology, 219, 1827-1832](http://jeb.biologists.org/content/219/12/1827).  In this study, the authors wanted to know if a magnetic pulse would disrupt the direction that spiny lobsters traveled. The authors recorded and compared the directions traveled by lobsters from two groups:
@@ -137,3 +137,23 @@ arrows.circular(mean(control))
 points(pulsed, col = "red")
 arrows.circular(mean(pulsed), col = "red")
 ```
+Let's now test whether each group differs from random:
+```R
+# Test the control group
+rayleigh.test(control)
+
+# Test the pulsed group
+rayleigh.test(pulsed)
+```
+Summarize your findings for each group.  Was there significant orientation or was it random?
+
+Finally, let's compare the two groups to see if they are different.
+```R
+# Test for a difference between groups
+watson.two.test(control, pulsed)
+```
+What do you find?  Do the groups differ?  You assignment tonight is to write a short paragraph summarizing the results of the Rayleigh test and Watson test for the lobster experiment.  Do you think the magnetic pulse affected the movement of the lobsters?
+
+You can refer back to this turotial at any time.  If you have any questions, please contact Eleanor or myself (rfitak9@gmail.com).  You will have to repeat many of the commands above with data you collect during tomorrow's experiment.
+
+I hope you enjoyed this tutorial!
