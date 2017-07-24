@@ -36,3 +36,15 @@ The mean (average) calculated above is the arithmetic mean.  Now, on a scrap pie
 ![Circle Plot](./circle.jpg)
 
 Now, draw a new line for the arithmetic mean angle calculated above.  What do you notice about the mean?  Does this appear to be correct?
+
+Next, we are going to calculate the circular mean, or sometimes called the 'mean angle' or 'preferred direction'.  To do so, we have to specifically tell R that our data are angles.
+```R
+# Convert our data to angle (circular) format
+data.circular = circular(data, units = "degrees", template = "geographics")
+
+# Calculate the mean
+mean(data.circular)
+```
+Draw this new mean angle on your circle. How does this mean angle compare with the one you calculated previously? Is this a better choice for the mean?  The mean angle may be negative... if so, can you convert it to be in the range 0 - 360 degrees?  What does the sign (postive or negative) indicate?
+
+
