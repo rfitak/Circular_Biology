@@ -99,6 +99,7 @@ For our practice data, we will use an actual dataset from Ernst & Lohmann. 2017.
 [Ernst, D. A. and Lohmann, K. J. (2016). Effect of magnetic pulses on Caribbean spiny lobsters: implications for magnetoreception. Journal of Experimental Biology, 219, 1827-1832](http://jeb.biologists.org/content/219/12/1827).  In this study, the authors wanted to know if a magnetic pulse would disrupt the direction that spiny lobsters traveled. The authors recorded and compared the directions traveled by lobsters from two groups:
 - Control group (blindfolded)
 - Pulse-magnetized group (blindfolded and exposed to a rapid magnetic pulse)
+They used an arena setup similar to the sea turtle example from the lecture.  It looked like this: ![lobster arena](./lobster-arena.gif)
 Let's load the data into R:
 ```R
 # Load control data then convert to angles
