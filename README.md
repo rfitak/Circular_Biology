@@ -63,7 +63,7 @@ You should have a circular plot, with each data point plotted on the edge of the
 # Plot our circular data in blue
 plot(data.circular, col = "blue")
 ```
-Great job!  You are now coding!!!
+Great job!  You are now coding in R!!!
 Next, let's add arrows
 ```R
 # Add arrows for each point
@@ -78,7 +78,7 @@ To save your plot, you can try this:
 dev.copy(png, file = "circle1.png")
 dev.off()
 ```
-The above command should save the plot as png file called 'circle1.png' in your default folder.
+The above command should save the plot as a png file called 'circle1.png' in your default folder.
 For the last step, let's plot our data as just black points, then the mean angle as a red arrow, and save the result:
 ```R
 plot(data.circular)
@@ -86,3 +86,13 @@ arrows.circular(mean(data.circular), col = "red")
 dev.copy(png, file = "circle2.png")
 dev.off()
 ```
+## Part 3:  Statistical testing
+Now the fun begins!  In this last section, we want to perform two statistical tests.  These tests will be practice for our lab experiment tomorrow.
+- First, we want to know whether or not a set of points on the circle is different from random.  We will use a test called the 'Rayleigh test'
+- Second, we want to know if two groups are the same or different.  For example, we could compare if males and females want to move in the same direction or not.  For comparing two groups, we will use the 'Watson-Wheeler test'.  This test is conceptually similar to a T-test, in case you have performed one in the past.
+For both tests, a p-value less than 0.05 suggests:
+- for the Rayleigh test, the individuals move in a preferred direction and not at random
+- for the Watson-Wheeler test, that the two groups have a different preferred direction.
+
+
+
