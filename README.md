@@ -34,4 +34,5 @@ mean(data)
 ```
 The mean (average) calculated above is the arithmetic mean.  Now, on a scrap piece of paper, draw a circle, put 0 degrees at the top, then draw a line for each of the 10 observations.  It should look something like this:
 ![Circle Plot](./circle.jpg)
+
 Now, draw a new line for the arithmetic mean angle calculated above.  What do you notice about the mean?  Does this appear to be correct?
