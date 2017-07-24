@@ -95,5 +95,17 @@ For both tests, a p-value less than 0.05 suggests:
 - for the Rayleigh test, the individuals move in a preferred direction and not at random
 - for the Watson-Wheeler test, that the two groups have a different preferred direction.
 
+For our practice data, we will use an actual dataset from Ernst & Lohmann. 2017.  Here is the citation and link to his paper:
+[Ernst, D. A. and Lohmann, K. J. (2016). Effect of magnetic pulses on Caribbean spiny lobsters: implications for magnetoreception. Journal of Experimental Biology, 219, 1827-1832](http://jeb.biologists.org/content/219/12/1827).  In this study, the authors wanted to know if a magnetic pulse would disrupt the direction that spiny lobsters traveled. The authors recorded and compared the directions traveled by lobsters from two groups:
+- Control group (blindfolded)
+- Pulse-magnetized group (blindfolded and exposed to a rapid magnetic pulse)
+Let's load the data into R:
+```R
+# Load control data then convert to angles
+control = c(213.8, 151.3, 195.4, 32.7, 307.7, 93.9, 187.8, 357.5, 217.6, 307, 196.6, 233.6, 97)
+control = circular(control, units = "degrees", template = "geographics")
 
-
+# Load pulsed data then convert to angles
+pulsed = c(342.1, 64.6, 53.6, 0.4, 17.4, 350.8, 51.6, 157.6, 191, 118.2, 317.9, 70.1, 55.8, 73.4)
+pulsed = circular(pulsed, units = "degrees", template = "geographics")
+```
