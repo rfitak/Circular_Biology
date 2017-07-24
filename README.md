@@ -52,9 +52,37 @@ Notes about the above command:
 
 Draw this new mean angle on your circle. How does this mean angle compare with the one you calculated previously? Is this a better choice for the mean?  The mean angle may be negative... if so, can you convert it to be in the range 0 - 360 degrees?  What does the sign (postive or negative) indicate?
 
-## Part 1:  Plotting
+## Part 2:  Plotting
 In this section, we are going to practice plotting circular data for visualization.  However, saving the plots as pictures, like a .jpg or .png file, is different for PC vs Mac.  Let me know if you have trouble saving a plot.
 ```R
 # Plot our circular data
 plot(data.circular)
+```
+You should have a circular plot, with each data point plotted on the edge of the circle.  Let's repeat the plotting again, but this time change the color:
+```R
+# Plot our circular data in blue
+plot(data.circular, col = "blue")
+```
+Great job!  You are now coding!!!
+Next, let's add arrows
+```R
+# Add arrows for each point
+arrows.circular(data.circular, col = "red")
+
+# Repeat the plot as before, but green lines instead of red arrows
+plot(data.circular, col = "blue")
+arrows.circular(data.circular, col = "green", length = 0)
+```
+To save your plot, you can try this:
+```R
+dev.copy(png, file = "circle1.png")
+dev.off()
+```
+The above command should save the plot as png file called 'circle1.png' in your default folder.
+For the last step, let's plot our data as just black points, then the mean angle as a red arrow, and save the result:
+```R
+plot(data.circular)
+arrows.circular(mean(data.circular), col = "red")
+dev.copy(png, file = "circle2.png")
+dev.off()
 ```
