@@ -33,4 +33,4 @@ data = c(5, 350, 330, 40, 20, 345, 359, 10, 15, 310)
 mean(data)
 ```
 The mean (average) calculated above is the arithmetic mean.  Now, on a scrap piece of paper, draw a circle, put 0 degrees at the top, then draw a line for each of the 10 observations.  It should look something like this:
-
+![Circle Plot](./circle.jpg)
