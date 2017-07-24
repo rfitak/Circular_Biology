@@ -100,6 +100,7 @@ For our practice data, we will use an actual dataset from Ernst & Lohmann. 2017.
 - Control group (blindfolded)
 - Pulse-magnetized group (blindfolded and exposed to a rapid magnetic pulse)
 They used an arena setup similar to the sea turtle example from the lecture.  It looked like this: ![lobster arena](./lobster-arena.gif)
+
 Let's load the data into R:
 ```R
 # Load control data then convert to angles
@@ -109,4 +110,30 @@ control = circular(control, units = "degrees", template = "geographics")
 # Load pulsed data then convert to angles
 pulsed = c(342.1, 64.6, 53.6, 0.4, 17.4, 350.8, 51.6, 157.6, 191, 118.2, 317.9, 70.1, 55.8, 73.4)
 pulsed = circular(pulsed, units = "degrees", template = "geographics")
+
+# Look at the data in each group
+control
+pulsed
+```
+Using the R commands we learned previously, what is the mean angle for each group (between 0 and 360 degrees)?  Plot the points.  Do the two groups look similar or different?
+
+In case you are having trouble, you can use the commands below:
+```R
+# Get the mean angles for each group
+mean(control)
+mean(pulsed)
+
+# Plot control group (black)
+plot.circular(control)
+arrows.circular(mean(control))
+
+# Plot pulsed group (red)
+plot.circular(pulsed, col = "red")
+arrows.circular(mean(pulsed), col = "red")
+
+# OPTIONAL:  Plot both together
+plot.circular(control)
+arrows.circular(mean(control))
+points(pulsed, col = "red")
+arrows.circular(mean(pulsed), col = "red")
 ```
