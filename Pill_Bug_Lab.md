@@ -12,9 +12,9 @@ Pill bugs, also known as sow bugs, potato bugs, or roly polies, are a terrestria
 However, it is not known if pill bugs can sense magnetic fields.  If you remember yesterday, we looked at data that demonstrated spiny lobsters change their orientation after exposure to a magnetic pulse, thus suggesting they can sense magnetic fields.  Since pill bugs are also crustaceans, perhaps they too have magnetoreception!  Although today's lab may not provide undisputable results, it is a first step.
 ## Experiment outline:
 1.  Build a pulse-magnetizer
-  * measure the magnetic field produced
+    * measure the magnetic field produced
 2.  Examine pill big orientation before exposure to a magnetic field (Control)
-   * repeat ≥10 trials
+    * repeat ≥10 trials
 3. Expose pill bugs to a magnetic pulse (Pulsed)
     * repeat ≥10 trials
 4. Calculate statistics and compare the Control and Pulsed groups.
