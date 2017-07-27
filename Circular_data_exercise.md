@@ -40,7 +40,7 @@ Now, draw a new line for the arithmetic mean angle calculated above.  What do yo
 Next, we are going to calculate the circular mean, or sometimes called the 'mean angle' or 'preferred direction'.  To do so, we have to specifically tell R that our data are angles.
 ```R
 # Convert our data to angle (circular) format
-data.circular = circular(data, units = "degrees", template = "geographics")
+data.circular = circular(data, units = "degrees", template = "geographics", modulo = "2pi")
 
 # Calculate the mean
 mean(data.circular)
@@ -106,11 +106,11 @@ Let's load the data into R:
 ```R
 # Load control data then convert to angles
 control = c(213.8, 151.3, 195.4, 32.7, 307.7, 93.9, 187.8, 357.5, 217.6, 307, 196.6, 233.6, 97)
-control = circular(control, units = "degrees", template = "geographics")
+control = circular(control, units = "degrees", template = "geographics", modulo = "2pi")
 
 # Load pulsed data then convert to angles
 pulsed = c(342.1, 64.6, 53.6, 0.4, 17.4, 350.8, 51.6, 157.6, 191, 118.2, 317.9, 70.1, 55.8, 73.4)
-pulsed = circular(pulsed, units = "degrees", template = "geographics")
+pulsed = circular(pulsed, units = "degrees", template = "geographics", modulo = "2pi")
 
 # Look at the data in each group
 control
