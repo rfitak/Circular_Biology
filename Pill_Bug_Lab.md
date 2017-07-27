@@ -14,7 +14,7 @@ However, it is not known if pill bugs can sense magnetic fields.  If you remembe
 1.  Build a pulse-magnetizer
   * measure the magnetic field produced
 2.  Examine pill big orientation before exposure to a magnetic field (Control)
-  * repeat ≥10 trials
+   * repeat ≥10 trials
 3. Expose pill bugs to a magnetic pulse (Pulsed)
-  * repeat ≥10 trials
+    * repeat ≥10 trials
 4. Calculate statistics and compare the Control and Pulsed groups.
