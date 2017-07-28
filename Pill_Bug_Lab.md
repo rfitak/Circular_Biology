@@ -77,7 +77,7 @@ Next, we are going to wire our pulse magnetizer.  To build the circuit, you will
   * Check the direction of the field.  First, align a compass with magnetic north on your desk.
   * Lay your coil on its side, with the bottom opening in line with the south compass point. (see image below)
   * Press the switch for 2-3 seconds.  If working properly, you should be able to flip the compass needle around!
-  ![flip]()
+  ![flip](./flip.jpg)
 - Step 5:
   * OPTIONAL: if you have time and are interested, download a magnetometer app for your phone, e.g. Magnitude.  Open the app, and place it next to your coil.  Record the field strength parameters.  Now, turn your coil on (press the switch) for 1-2 seconds.  Record the reading with the coil turned on.  How much did the field change?  Is this similar or different that what you predicted from the equation?  If different, what reasons may account for this? Make sure to check your units, you can use Google to convert units!
 
