@@ -60,7 +60,7 @@ Next, we are going to wire our pulse magnetizer.  To build the circuit, you will
 
 Build the circuit as shown in the diagram below.  To avoid any potential short circuits, connect the battery last.  Remember, the circuit will not be complete
 
-![circuit](./circuit.png)
+![circuit](./circuitAB.png)
 
 
 
