@@ -39,6 +39,13 @@ An electromagnet is just a coil of wire.  When electricity flows through the coi
 
 As indicated by the diagram, the current (referred to as "I") flows through the coil from left (negative) to right (positive).  The coil creates a magnetic field with the north pole (N) directed to the left. Remember, current is measured in Amperes (amps) and flows from the negative terminal of a battery to the positive side.  We are going to build the coil by wrapping the wire around the PVC pipe.  Follow the steps below:
 - Step 1:
-  * dfdfdfdf
+  * Place several rubber bands around the PVC pipe, the rubber bands will help to secure the wire.
 - Step 2:
-  * dfgjhdfghdfkg
+  * Pass the wire underneath the rubber band at the bottom, leaving about 10 cm excess.
+- Step 3:
+  * Wrap the wire tightly around the PVC pipe.  As we will see later, the more dense the could the stronger the magnetic field
+- Step 4:
+  * Stop wrapping when ~10 cm of wire is remaining. Secure the wire with rubber bands.
+  
+  Example picture:
+  ![build coil](./coil2.svg)
