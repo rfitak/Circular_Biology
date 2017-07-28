@@ -34,6 +34,8 @@ Materials required (see numbered picture below):
 ![materials photo](./magnetizer2.jpg)
 
 An electromagnet is just a coil of wire.  When electricity flows through the coil, it produces a magnetic field.  See the diagram below:
+
 ![coil](coil1.gif)
 
+gggg
 
