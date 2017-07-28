@@ -74,6 +74,10 @@ Next, we are going to wire our pulse magnetizer.  To build the circuit, you will
   * I = current in Amperes
   * 
 
+\begin{equation}
+\dot{x} & = \sigma(y-x) \\
+\end{equation}
+
 
 
 
