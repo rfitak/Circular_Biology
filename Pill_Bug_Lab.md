@@ -50,17 +50,26 @@ As indicated by the diagram, the current (referred to as "I") flows through the 
   Example picture:
   ![build coil](./coil2.png)
 
-Next, we are going to wire our pulse magnetizer.  To build the circuit, you will need to connect the 9 volt battery to a switch and to the coil.  The switch and battery connector have already been connected together.  Before we complete out circuit, we will measure the current running through our coil in order to estimate the magnetic field strength.
-- Step 1:
-  * Connect the negative wire (black) of the battery connector to the bottom lead of the coil (lead nearest the end of the PVC pipe).  Simply twist the expose wires together then cover with electrical tape.
--Step 2:
-  * To measure the current, touch the black electrode to the other lead of the coil and the red electrode to the red cable coming from the switch.  
-
-
-
-Build the circuit as shown in the diagram below.  To avoid any potential short circuits, connect the battery last.  Remember, the circuit will not be complete
+Next, we are going to wire our pulse magnetizer.  To build the circuit, you will need to connect the 9 volt battery to a switch and to the coil.  The switch and battery connector have already been connected together.  Before we complete out circuit, we will measure the current running through our coil in order to estimate the magnetic field strength.  Part A of the figure below shows the circuit with the multimeter attached, and part B shows the final circuit.
 
 ![circuit](./circuitAB.png)
+
+
+- Step 1:
+  * Connect the negative wire (black) of the battery connector to the bottom lead of the coil (lead nearest the end of the PVC pipe).
+  * Simply twist the expose wires together then cover with electrical tape.
+- Step 2:
+  * To measure the current, touch the black electrode to the other lead of the coil and the red electrode to the red cable coming from the switch.
+  * Alligator clips are available at my desk if needed to make this easier.
+  * Turn the multimeter setting to the 10A setting.
+  * With your partner, one person should press the switch and hold it on for 2-3 seconds while the other partner records the maximum value on the screen.
+  * Repeat 3 times and take the average.  This is the current, in amps, flowing through the circuit.
+  * Disconnect the multimeter, and connect the remaining two wires together.  Remember to seal the connection with electrical tape.
+
+
+
+
+
 
 
 
