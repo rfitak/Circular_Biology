@@ -49,3 +49,9 @@ As indicated by the diagram, the current (referred to as "I") flows through the 
   
   Example picture:
   ![build coil](./coil2.png)
+
+Next, we are going to wire our pulse magnetizer
+
+
+
+
