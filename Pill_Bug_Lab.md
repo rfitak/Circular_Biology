@@ -120,5 +120,22 @@ This set of trials with be performed identical to the control set, with the exce
 - Step 4:
   * Repeat steps 2-7 from the previous Control experiment.  Make sure to perform at least 10 trials.
 
+## Part 4:  Calculate statistics
+Using what you learned yesterday regarding circular statistics, calculate the following statistics:
+1.  Mean angle in Control group
+2.  Rayleigh test result for Control group
+3.  Mean angle in Pulsed group
+4.  Rayleigh test result for Pulsed group
+5.  Compare the two groups using the Watson test
 
+# Lab Report Assignment!!!!
+Your assignment is a short and simple lab report.  It shouldn't be more than 1 page, including figures or tables.  Please address the following items:
+1.  Provide a plot of the control and pulsed groups (can be together or separate plots)
+2.  Summarize the data, including the estimate of the magnetic pulse strength and results of the statistical tests.
+3.  Discuss the following items:
+  * Whether or not your results support an effect of the magnetic pulse on pill bug orientation.
+  * What other factors may have contributed to the pill bug orientation?
+  * How would you improve this experiment in the future?
+  
+## Please dissamble your pulse magnetizers when finished and return them to the instructor when finished.
 
