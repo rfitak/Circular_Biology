@@ -69,7 +69,7 @@ Next, we are going to wire our pulse magnetizer.  To build the circuit, you will
   * Calculate the magnetic field strength.  To do so, we use the equation:
 ## <p align="center">B = u * n * I</p>
 <p align="center">B = magnetic field strength in Tesla</p>
-<p align="center">u = permeability constant, for air u = 4pi x 10e-7 T/amp m</p>
+<p align="center">u = permeability constant, for air u = 12.6 x 10e-7 T/amp m</p>
 <p align="center">n = number of wire turns per meter</p>
 <p align="center">I = current in Amperes</p>
 
@@ -83,7 +83,25 @@ Next, we are going to wire our pulse magnetizer.  To build the circuit, you will
 - Step 5:
   * OPTIONAL: if you have time and are interested, download a magnetometer app for your phone, e.g. Magnitude.  Open the app, and place it next to your coil.  Record the field strength parameters.  Now, turn your coil on (press the switch) for 1-2 seconds.  Record the reading with the coil turned on.  How much did the field change?  Is this similar or different that what you predicted from the equation?  If different, what reasons may account for this? Make sure to check your units, you can use Google to convert units!
 
+## Part 2: Orientation experiment (Control)
+Great job building your pulse magnetizer!  However, before we use it, we need to establish a baseline for pill bug orientation.  This will be the control group.  The process is pretty easy.  In order to get a good estimate, the control experiment should be repeated at least 10 times.
+Materials required:
+1.  Pill bug (so cute!!!)
+2.  Plastic tube with cap that fits inside the PVC pipe
+3.  Compass
+4.  Orientation arena (paper with a circle and angles printed)
+5.  Stopwatch (your phone usually has one)
+6.  OPTIONAL: protractor
 
+Step 1:
+  * Using your compass, align your arena so the "0" degree mark is positioned with magnetic north.  Use some tape to secure your arena to the desk.
+  *  Place the pill bug in the center of the arena.
+  *  Invert the tube cap and cover the pill bug so it is in darkness
+  *  Allow the pill bug to rest for 1-2 minutes
+  *  Release the pill bug (pick up the cap) and start the stopwatch
+  *  Mark the point where the pill bug crosses the circle edge.  If the pill bug does not reach the edge within 30 seconds, restart the trial.
+  * Record the angle of the mark.  OPTIONAL: use a protractor to get more accurate measurements
+  * Repeat the trial at least 10 times.
 
 
 
