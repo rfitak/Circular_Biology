@@ -52,6 +52,8 @@ As indicated by the diagram, the current (referred to as "I") flows through the 
 
 Next, we are going to wire our pulse magnetizer
 
+![circuit](./circuit.png)
+
 
 
 
