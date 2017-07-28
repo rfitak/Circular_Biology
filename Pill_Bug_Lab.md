@@ -38,7 +38,7 @@ An electromagnet is just a coil of wire.  When electricity flows through the coi
 ![coil](coil1.gif)
 
 As indicated by the diagram, the current (referred to as "I") flows through the coil from left (negative) to right (positive).  Remember, current is measured in Amperes (amps) and flows from the negative terminal of a battery to the positive side.  We are going to build the coil by wrapping the wire around the PVC pipe.  Follow the steps below:
-Step 1:
-    *dfdfdfdf
-Step 2:
-    *dfgjhdfghdfkg
+- Step 1:
+  * dfdfdfdf
+- Step 2:
+  * dfgjhdfghdfkg
