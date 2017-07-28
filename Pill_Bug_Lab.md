@@ -67,7 +67,7 @@ Next, we are going to wire our pulse magnetizer.  To build the circuit, you will
   * Disconnect the multimeter, and connect the remaining two wires together.  Remember to seal the connection with electrical tape.
 - Step 4:
   * Calculate the magnetic field strength.  To do so, we use the equation:
-##                             B = u * n * I
+## <p align="center">B = u * n * I</p>
 
 
 
