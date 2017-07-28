@@ -106,7 +106,7 @@ Materials required:
 - Step 6:
   *  Mark the point where the pill bug crosses the circle edge.  If the pill bug does not reach the edge within 30 seconds, restart the trial.
   * Record the angle of the mark.  OPTIONAL: use a protractor to get more accurate measurements
-Step 7:
+- Step 7:
   * Repeat the trial at least 10 times.
 
 
