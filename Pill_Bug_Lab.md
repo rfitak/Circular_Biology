@@ -67,11 +67,11 @@ Next, we are going to wire our pulse magnetizer.  To build the circuit, you will
   * Disconnect the multimeter, and connect the remaining two wires together.  Remember to seal the connection with electrical tape.
 - Step 4:
   * Calculate the magnetic field strength.  To do so, we use the equation:
-## <p align="center">B = u * n * I
-   * B = magnetic field strength in Tesla
-   * u = permeability constant, for air u = 4pi x 10e-7 T/amp m
-   * n = number of wire turns per meter
-   * I = current in Amperes</p>
+## <p align="center">B = u * n * I</p>
+<p align="center">B = magnetic field strength in Tesla</p>
+<p align="center">u = permeability constant, for air u = 4pi x 10e-7 T/amp m</p>
+<p align="center">n = number of wire turns per meter</p>
+<p align="center">I = current in Amperes</p>
   * Using the above equation, calculate your magnetic field strength.
   * OPTIONAL: if you have time and are interested, download a magnetometer app for your phone, e.g. Magnitude.  Open the app, and place it next to your coil.  Record the field strength parameters.  Now, turn your coil on (press the switch) for 1-2 seconds.  Record the reading with the coil turned on.  How much did the field change?  Is this similar or different that what you predicted from the equation?  If different, what reasons may account for this? 
 
