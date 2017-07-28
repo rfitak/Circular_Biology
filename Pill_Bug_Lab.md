@@ -22,13 +22,17 @@ However, it is not known if pill bugs can sense magnetic fields.  If you remembe
 ## Part 1: Building a pulse-magnetizer
 In the spiny lobsert experiment, the authors used a machine called a "pulse magnetizer" to generate a powerful magnetic field for a very brief amount of time.  This same kind of machine is used to magnetize things like screwdrivers, electrical components, or even refrigerator magnets.  The machine generated a magnetic field strength of around 0.085 Tesla.  For comparison, the Earth's magnetic field strength is about 0.00005 Telsa (or 0.5 Gauss), and an MRI machine is around 1.5 Tesla.  Therefore, the spiny lobsters were exposed to a magnetic field ~1700X stronger than normal!.  Now, we don't have access to a fancy pulse magnetizer, so we are going to build one.  It won't be as strong as what was used for lobsters, and our pulse wont be as fast, but it may still produce a measureable effect.  Building one is quite simple, since it is just an electromagnet.  You may remember some of the concepts from physics class, but we will review the concepts along the way.  Put on your engineering caps and let's begin!
 
-Materials required:
+Materials required (see numbered picture below):
 1. 9 volt battery
 2. 9 volt batter connector with wire leads
 3. X cm copper wire (18 - 24 gauge)
 4. Push button switch (momentary)
 5. PVC tube, 6 cm long by 2 cm inside diameter
-6. Multimeter
+6. Small rubber bands
+7. Multimeter
 
+![materials photo](./magnetizer.jpg)
+
+steps...
 
 
