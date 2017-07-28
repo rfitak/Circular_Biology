@@ -109,7 +109,16 @@ Materials required:
 - Step 7:
   * Repeat the trial at least 10 times.
 
-
+## Part 3: Orientation experiment (Pulsed)
+This set of trials with be performed identical to the control set, with the exception of an added step that exposes the pill bug to a magnetic pulse.
+- Step 1:
+  * Set up your pulse magnetizer so the PVC pipe is standing vertically. The direction of the magnetic field should be pointing upright.
+- Step 2:
+  * Place the pill bug inside the plastic tube and insert the tube inside the pulse magnetizer (PVC pipe)
+- Step 3:
+  * Activate (turn on) the pulse-magnetizer for 2 seconds.
+- Step 4:
+  * Repeat steps 2-7 from the previous Control experiment.  Make sure to perform at least 10 trials.
 
 
 
