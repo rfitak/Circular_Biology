@@ -54,7 +54,6 @@ Next, we are going to wire our pulse magnetizer.  To build the circuit, you will
 
 ![circuit](./circuitAB.png)
 
-
 - Step 1:
   * Connect the negative wire (black) of the battery connector to the bottom lead of the coil (lead nearest the end of the PVC pipe).
   * Simply twist the expose wires together then cover with electrical tape.
@@ -64,7 +63,11 @@ Next, we are going to wire our pulse magnetizer.  To build the circuit, you will
   * Turn the multimeter setting to the 10A setting.
   * With your partner, one person should press the switch and hold it on for 2-3 seconds while the other partner records the maximum value on the screen.
   * Repeat 3 times and take the average.  This is the current, in amps, flowing through the circuit.
+- Step 3:
   * Disconnect the multimeter, and connect the remaining two wires together.  Remember to seal the connection with electrical tape.
+- Step 4:
+  * Calculate the magnetic field strength.  To do so, we use the equation:
+##                             B = u * n * I
 
 
 
