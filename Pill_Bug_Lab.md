@@ -93,14 +93,20 @@ Materials required:
 5.  Stopwatch (your phone usually has one)
 6.  OPTIONAL: protractor
 
-Step 1:
+- Step 1:
   * Using your compass, align your arena so the "0" degree mark is positioned with magnetic north.  Use some tape to secure your arena to the desk.
+- Step 2:
   *  Place the pill bug in the center of the arena.
+- Step 3:
   *  Invert the tube cap and cover the pill bug so it is in darkness
+- Step 4:
   *  Allow the pill bug to rest for 1-2 minutes
+Step 5:
   *  Release the pill bug (pick up the cap) and start the stopwatch
+Step 6:
   *  Mark the point where the pill bug crosses the circle edge.  If the pill bug does not reach the edge within 30 seconds, restart the trial.
   * Record the angle of the mark.  OPTIONAL: use a protractor to get more accurate measurements
+Step 7:
   * Repeat the trial at least 10 times.
 
 
