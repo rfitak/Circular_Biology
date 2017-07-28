@@ -31,7 +31,7 @@ Materials required (see numbered picture below):
 6. Small rubber bands
 7. Multimeter
 
-![materials photo](./magnetizer.jpg)
+![materials photo](./magnetizer2.jpg)
 
 steps...
 
