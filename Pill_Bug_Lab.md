@@ -48,4 +48,4 @@ As indicated by the diagram, the current (referred to as "I") flows through the 
   * Stop wrapping when ~10 cm of wire is remaining. Secure the wire with rubber bands.
   
   Example picture:
-  ![build coil](./coil2.pdf)
+  ![build coil](./coil2.png)
