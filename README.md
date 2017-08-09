@@ -10,3 +10,6 @@ The tutorial can be found at the link below:
 
 
 ## The pill bug lab
+The link below contains the full description of the pill bug lab presented in the article, complete with illustrations and quiding questions.
+
+[Pill bug lab exercise](./Pill_Bug_Lab.md)
