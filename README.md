@@ -5,6 +5,7 @@ This repository includes the detailed procedures for performing the pill bug lab
 If interested, the following tutorial on circular statistics can be included during classtime prior to the experiment day.  This tutorial is deisgned as a very basic introduction to the statistical software R and its utility for performing statistical tests and graphically visualizing data.  However, this tutorial can be skipped and the results analyzed either by hand (as described in the tutorial) or with alternative statistical software.
 
 The tutorial can be found at the link below:
+
 [Circular data in biology tutorial: An introduction to R](./Circular_data_exercise.md).
 
 
