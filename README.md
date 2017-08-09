@@ -1,4 +1,4 @@
-# Circular_Biology
+# Orientation in pill bugs: an interdisciplinary activity to engage students in concepts of biology, physics, and circular statistics
 This repository includes the detailed procedures for performing the pill bug laboratory exercise described in [insert publication here].  Links to different material describing the activity as well as for further reading and exploration are provided as blue, underlined clickable links. Any and all additions, comments, and criticisms are welcome and can be submitted either through GitHub as a "patch" or to my email (rfitak9@gmail.com).  On behalf of my coauthors who helped design this exercise (Eleanor Caves and Sönke Johnsen), we hope you enjoy the activity!
 
 ## Circular Statistics
