@@ -13,3 +13,6 @@ The tutorial can be found at the link below:
 The link below contains the full description of the pill bug lab presented in the article, complete with illustrations and quiding questions.
 
 [Pill bug lab exercise](./Pill_Bug_Lab.md)
+
+[A printable (8.5" x 11") orientation arena can be found here](./Orientation-Arena.pdf).
+
