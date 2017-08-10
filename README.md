@@ -16,3 +16,4 @@ The link below contains the full description of the pill bug lab presented in th
 
 [A printable (8.5" x 11") orientation arena can be found here](./Orientation-Arena.pdf).
 
+[An example Powerpoint lecture on magnetoreception can be downloaded here](./Sensory_Biology_7-31-2017.pptx)
