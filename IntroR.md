@@ -10,5 +10,5 @@ Once R or R-studio is installed, open it (or run the terminal version).  R will 
 # Get my current folder location
 getwd()
 ```
-The command in the gray box above can be directly copied and pasted into an R terminal, or typed by hand.  After entering the command, press the <enter> key.  The above command should produce the location, or path, to the folder of you computer you are currently working in.  My results was:  
+The command in the gray box above can be directly copied and pasted into an R terminal, or typed by hand.  After entering the command, press the \<enter\> key.  The above command should produce the location, or path, to the folder of you computer you are currently working in.  My results was:  
 [1] "/Users/rfitak"
