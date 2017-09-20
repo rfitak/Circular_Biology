@@ -12,6 +12,7 @@ getwd()
 ```
 The function ```getwd``` in the gray box above can be directly copied and pasted into an R terminal, or typed by hand.  After entering the command, press the \<enter\> key.  The above command should produce the location, or path, to the folder of your computer that you are currently working in.  My results was:  
 [1] "/Users/rfitak"  
+
 You can change to a different folder on your computer by giving a different path to the function ```setwd```:
 ```R
 # Change to the folder called ecaves
@@ -22,3 +23,15 @@ If you are not sure about how to use any function, look at the manual:
 # Get the help manual for the function 'setwd'
 ?setwd
 ```
+### R and Datasets
+At a base level, you will most likely be interested in data in the format as a list of items or as a table.  These data can either be located in files that you load into R, or generated in R itself.  It will take too long to describe all the possible data formats you can load, but we will begin with a few of the simplest and most common.
+First, let's begin with making our own data:
+```R
+# Make a set of 10 test scores
+data = c(95, 91, 68, 84, 92, 77, 72, 99, 76, 89)
+```
+
+
+
+
+
