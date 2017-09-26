@@ -8,7 +8,7 @@ The tutorial can be found at the link below:
 
 [Circular data in biology tutorial: An introduction to R](./Circular_data_exercise.md).
 
-Alternatively, if you prefer to calculate the mean angle and perform the Raleigh and Watson statistical tests by hand or with a calculator, you can follow the tutorial at the link below.  It is a bit more tedious, but easily performed by advanced high school and undergraduate students.
+Alternatively, if you prefer to calculate the mean angle and perform the Rayleigh and Watson statistical tests by hand or with a calculator, you can follow the tutorial at the link below.  It is a bit more tedious, but easily performed by advanced high school and undergraduate students.
 
 [Circular data analysis by hand](./Circular_data_by_hand.pdf)
 
