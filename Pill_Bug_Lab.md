@@ -9,7 +9,7 @@ Pill bugs, also known as sow bugs, potato bugs, or roly polies, are a terrestria
 
 ![pill bug photo](./bug1.jpg)
 
-However, it is not known if pill bugs can sense magnetic fields.  If you remember yesterday, we looked at data that demonstrated spiny lobsters change their orientation after exposure to a magnetic pulse, thus suggesting they can sense magnetic fields.  Since pill bugs are also crustaceans, perhaps they too have magnetoreception!  Although today's lab may not provide undisputable results, it is a first step.
+However, it is not known if pill bugs can sense magnetic fields.  If you refer to the [Circular data analysis tutorial](./Circular_data_exercise.md), we looked at data that demonstrated spiny lobsters change their orientation after exposure to a magnetic pulse, thus suggesting they can sense magnetic fields.  Since pill bugs are also crustaceans, perhaps they too have magnetoreception!  Although today's lab may not provide undisputable results, it is a first step.
 ## Experiment outline:
 1.  Build a pulse-magnetizer
     * measure the magnetic field produced
@@ -25,7 +25,7 @@ In the spiny lobsert experiment, the authors used a machine called a "pulse magn
 Materials required (see numbered picture below):
 1. 9 volt battery
 2. 9 volt batter connector with wire leads
-3. X cm copper wire (18 - 24 gauge)
+3. 2 m copper wire (18 - 24 gauge)
 4. Push button switch (momentary)
 5. PVC tube, 6 cm long by 2 cm inside diameter
 6. Small rubber bands
@@ -76,7 +76,8 @@ Next, we are going to wire our pulse magnetizer.  To build the circuit, you will
 - Step 5:
   * Check the direction of the field.  First, align a compass with magnetic north on your desk.
   * Lay your coil on its side, with the bottom opening in line with the south compass point. (see image below)
-  * Press the switch for 2-3 seconds.  If working properly, you should be able to flip the compass needle around!
+  * Press the switch for 2-3 seconds.  If the compass needle flips around, then label this end of the coil as south ("S").  This is because the tip of the compass needle that points north is called "north seeking", and points away from the south end of the magnetic coil.
+  * If the compass needle didn't flip around, rotate your coil 180 degress (try the other end) and repeat the above step.  Make sure to corectly label the N and S ends of your coil!
 
 ![flip](./flip.jpg)
 
