@@ -76,7 +76,7 @@ Next, we are going to wire our pulse magnetizer.  To build the circuit, you will
 - Step 5:
   * Check the direction of the field.  First, align a compass with magnetic north on your desk.
   * Lay your coil on its side, with the bottom opening in line with the south compass point. (see image below)
-  * Press the switch for 2-3 seconds.  If the compass needle flips around, then label this end of the coil as south ("S").  This is because the tip of the compass needle that points north is called "north seeking", and points away from the south end of the magnetic coil.
+  * Press the switch for 2-3 seconds.  If the compass needle flips around, then label this end of the coil as south ("S").  This is because the tip of the compass needle that points north is called "north seeking", and points away from the south end of a magnet.
   * If the compass needle didn't flip around, rotate your coil 180 degress (try the other end) and repeat the above step.  Make sure to corectly label the N and S ends of your coil!
 
 ![flip](./flip.jpg)
