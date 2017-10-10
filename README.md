@@ -17,6 +17,8 @@ The link below contains the full description of the pill bug lab presented in th
 
 [Pill bug lab exercise](./Pill_Bug_Lab.md)
 
+[Pill bug lab handout](./handout.pdf) - this handout can help introduce and guide student participating in this activity.  It includes spaces for recording data and observations in addition to critical thinking questions.
+
 [A printable (8.5" x 11") orientation arena can be found here](./Orientation-Arena.pdf).
 
 [An example Powerpoint lecture on magnetoreception can be downloaded here](./Sensory_Biology_7-31-2017.pptx)
