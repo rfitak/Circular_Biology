@@ -67,7 +67,7 @@ Next, we are going to wire our pulse magnetizer.  To build the circuit, you will
   * Disconnect the multimeter, and connect the remaining two wires together.  Remember to seal the connection with electrical tape.
 - Step 4:
   * Calculate the magnetic field strength.  To do so, we use the equation:
-<p align="center">## B = u * n * I</p>
+##  <p align="center">B = u * n * I</p>
 <p align="center">B = magnetic field strength in Tesla</p>
 <p align="center">u = permeability constant, for air u = 12.6 x 10e-7 T/amp m</p>
 <p align="center">n = number of wire turns per meter</p>
