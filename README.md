@@ -16,7 +16,7 @@ Alternatively, if you prefer to calculate the mean angle and perform the Rayleig
 
 [Circular data analysis by hand](./Circular_data_by_hand.pdf)
 
-## The pill bug lab
+## The Pill Bug Lab
 The link below contains the full description of the pill bug lab presented in the article, complete with illustrations and guiding questions.
 
 [Pill bug lab exercise](./Pill_Bug_Lab.md)
