@@ -1,5 +1,5 @@
 # Orientation in pill bugs: an interdisciplinary activity to engage students in concepts of biology, physics, and circular statistics
-This repository includes the detailed procedures for performing the pill bug laboratory exercise described in [insert publication here].  Links to different material describing the activity as well as for further reading and exploration are provided as clickable links highlighted in blue. Any and all additions, comments, and criticisms are welcome and can be submitted either through GitHub as a "patch" or to my email (rfitak9@gmail.com).  On behalf of my coauthors who helped design this exercise (Eleanor Caves and Sönke Johnsen), we hope you enjoy the activity!
+This repository includes the detailed procedures for performing the pill bug laboratory exercise described in [Fitak et al. 2018](https://doi.org/10.1525/abt.2018.80.8.608).  Links to different material describing the activity as well as for further reading and exploration are provided as clickable links highlighted in blue. Any and all additions, comments, and criticisms are welcome and can be submitted either through GitHub as a "patch" or to my email (rfitak9@gmail.com).  On behalf of my coauthors who helped design this exercise (Eleanor Caves and Sönke Johnsen), we hope you enjoy the activity!
 
 ## Circular Statistics
 If interested, the tutorial below on circular statistics can be included during classtime prior to the experiment day.  This tutorial is deisgned as a very basic introduction to the statistical software R and its utility for performing statistical tests and graphically visualizing data.  However, this tutorial can be skipped and the results analyzed using our new online calculator ([click here](https://rfitak.shinyapps.io/circbio/)) or even by hand.
@@ -28,6 +28,8 @@ The link below contains the full description of the pill bug lab presented in th
 [An example Powerpoint lecture on magnetoreception can be downloaded here](./Sensory_Biology_7-31-2017.pptx)
 
 ## Citation and Licensing
-Please cite our paper [insert citation] in any publications using this activity.  All materials presented here are licensed using GNU General Public License v2.0.  The full license information is detailed at the link below.
+Please cite our paper in any publications using this activity.  
+Fitak, R. R., Caves, E. M. & Johnsen, S. (2018). Orientation in pill bugs: an interdisciplinary activity to engage students in concepts of biology, physics & circular statistics. *The American Biology Teacher*, **80**(8), 608-618. doi: 10.1525/abt.2018.80.08.608  
+All materials presented here are licensed using GNU General Public License v2.0.  The full license information is detailed at the link below.
 
 [LICENSE](./LICENSE)
