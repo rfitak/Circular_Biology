@@ -29,7 +29,7 @@ The link below contains the full description of the pill bug lab presented in th
 
 ## Citation and Licensing
 Please cite our paper in any publications using this activity.  
-Fitak, R. R., Caves, E. M. & Johnsen, S. (2018). Orientation in pill bugs: an interdisciplinary activity to engage students in concepts of biology, physics & circular statistics. *The American Biology Teacher*, **80**(8), 608-618. doi: 10.1525/abt.2018.80.08.608  
+Fitak, R. R., Caves, E. M. & Johnsen, S. (2018). Orientation in pill bugs: an interdisciplinary activity to engage students in concepts of biology, physics & circular statistics. *The American Biology Teacher*, **80**(8), 608-618. doi: [10.1525/abt.2018.80.08.608](https://doi.org/10.1525/abt.2018.80.8.608)  
 All materials presented here are licensed using GNU General Public License v2.0.  The full license information is detailed at the link below.
 
 [LICENSE](./LICENSE)
